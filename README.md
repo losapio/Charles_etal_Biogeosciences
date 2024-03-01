@@ -21,3 +21,6 @@ Cécile Charles1, Nora Khelidj1, Lucia Mottet1, Bao Ngan Tu1,2, Thierry Adatte3,
 
 
 Correspondence to: Gianalberto Losapio (Gianlaberto.Losapio@unil.ch)
+
+
+Data are publicly accessible on Zenodo at https://doi.org/10.5281/zenodo.10730935
